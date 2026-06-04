@@ -1,3 +1,7 @@
+## 🎥 Project Demo
+[screen-capture (8).webm](https://github.com/user-attachments/assets/6b50c58b-106d-4978-b864-dbe6bbe1ea7c)
+
+
 # BEHAVR : Human Behavior Prediction Dashboard
 <img width="958" height="440" alt="p1" src="https://github.com/user-attachments/assets/e8cf5a0a-a301-451c-80f6-92b0a2144a8e" />
 <img width="947" height="445" alt="p2" src="https://github.com/user-attachments/assets/37ce823a-e6ac-4c0b-a25a-b5b2aca5d467" />
